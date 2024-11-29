@@ -10,9 +10,3 @@
 # HAPPY BIRTDAY CHANDRA KIRANA
 
 "Selamat ulang tahun untuk sahabatku tersayang! Semoga di hari yang spesial ini kamu mendapatkan tahun yang baik kedepannya". 
-
-</header>
-
-
-
-</footer>
